@@ -36,6 +36,5 @@ models/*.pth
 models/*.pt
 
 # Datasets (imágenes)
-dataset/
 data_origen/
 DataSet_internet/

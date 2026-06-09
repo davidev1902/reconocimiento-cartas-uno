@@ -1,0 +1,13 @@
+Propia | Sin pesos | 1.0000
+vgg16 | Transfer learning | 1.0000
+vgg16 | Fine tunning y pesos | 1.0000
+resnet50 | Transfer learning | 1.0000
+resnet50 | Fine tunning y pesos | 1.0000
+densenet121 | Transfer learning | 1.0000
+densenet121 | Fine tunning y pesos | 1.0000
+vit_tiny | Transfer learning | 1.0000
+vit_tiny | Fine tunning y pesos | 1.0000
+swin_tiny | Transfer learning | 1.0000
+swin_tiny | Fine tunning y pesos | 1.0000
+deit_small | Transfer learning | 1.0000
+deit_small | Fine tunning y pesos | 1.0000
